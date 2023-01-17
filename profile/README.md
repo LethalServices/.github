@@ -33,8 +33,6 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -57,46 +55,7 @@ Of course we offer many more features with that said we will always be up to dat
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
-## Getting Started
-
-### Prerequisites
-You will need to run this in oder to use the bot. But this is only used if it doesn't automatically install.
-
-* Installing Packges
-  ```sh
-  pip install -r requirements.txt
-  ```
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-
-_For examples, please refer to the [discord](https://discord.gg/lethals)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 <!-- CONTACT -->
 ## Contact
 
 * _For support, please refer to the [discord](https://discord.gg/lethals)_
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-The libray we are currently using.
-
-* _Selfbot libray [discord-selfbot](https://github.com/dolfies/discord.py-self)_
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
