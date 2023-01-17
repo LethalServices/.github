@@ -34,7 +34,7 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## What is Lethal
+## What is Lethal?
 
 Lethal is working towrds making discord fun and more useful in unique ways. So you can enjoy a fun and relaxing experiance without having any interruptions.
 
