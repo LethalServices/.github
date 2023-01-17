@@ -25,7 +25,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">What is lethal?</a>
+      <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -34,7 +34,7 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## What is Lethal
 
 Lethal is working towrds making discord fun and more useful in unique ways. So you can enjoy a fun and relaxing experiance without having any interruptions.
 
