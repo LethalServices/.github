@@ -42,6 +42,7 @@ Here's why:
 * Gamecheats! Fully injectable through the selfbot.
 * Admin & Moderation detection on voice join.
 * Admin trolling with raiding features.
+* Accont Logs / Protections.
 
 Of course we offer many more features with that said we will always be up to date with our software.
 
