@@ -36,7 +36,15 @@
 <!-- ABOUT THE PROJECT -->
 ## What is Lethal?
 
-Lethal is working towrds making discord fun and more useful in unique ways. So you can enjoy a fun and relaxing experiance without having any interruptions.
+At Lethal Service's, we understand that there are countless security measures and protections available to people today. However, we also recognize that these measures are not always enough to stop determined individuals from causing trouble or causing harm. That's why we're excited to offer a new service that will help to mitigate these annoyances and keep you and your account/accounts safe.
+
+Our service is designed to provide you with a customized security plan that takes into account your specific needs and concerns. We'll work closely with you to identify potential vulnerabilities and develop a plan that includes a range of security measures, such as Account Logs, Anti-theft , and more.
+
+In addition to these physical security measures, we'll also provide you with expert advice on how to protect yourself and your account/accounts from cyber threats, such as malware, phishing, and hacking. We know that these threats are becoming increasingly common and sophisticated, which is why we take a proactive approach to help you stay ahead of the curve.
+
+At Lethal, we're committed to providing our clients with the highest level of security and peace of mind. We understand that security is not a one-size-fits-all solution, which is why we take the time to understand your unique needs and tailor our services to meet those needs. Whether you're a normal discord user, a discordian, or a com kid, we have the expertise and experience to help you stay safe and secure.
+
+So if you're looking for a partner in security, look no further than Lethal. Our team of experts is here to help you protect what matters most, so you can focus on what you do best. Contact us today to learn more about our services and how we can help you stay safe and secure.
 
 Here's why:
 * Gamecheats! Fully injectable through the selfbot.
