@@ -47,12 +47,12 @@ At Lethal, we're committed to providing our clients with the highest level of se
 So if you're looking for a partner in security, look no further than Lethal. Our team of experts is here to help you protect what matters most, so you can focus on what you do best. Contact us today to learn more about our services and how we can help you stay safe and secure.
 
 Here's why:
-* Gamecheats! Fully injectable through the selfbot.
-* Admin & Moderation detection on voice join.
-* Admin trolling with raiding features.
-* Accont Logs / Protections.
+* Gain an unfair advantage with Lethal's fully injectable game cheats, all available through our selfbot.
+* Lethal's powerful selfbot provides advanced admin and moderation detection capabilities upon voice join.
+* Take admin trolling to the next level with Lethal's raiding features, built for ultimate mischief and mayhem.
+* Protect your account with Lethal's reliable account logs and robust account protection.
 
-Of course we offer many more features with that said we will always be up to date with our software.
+Lethal is committed to delivering cutting-edge features and keeping our software up-to-date. Stay tuned for even more exciting updates in the future!
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
