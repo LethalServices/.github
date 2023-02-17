@@ -40,7 +40,7 @@ At Lethal Service's, we understand that there are countless security measures an
 
 Our service is designed to provide you with a customized security plan that takes into account your specific needs and concerns. We'll work closely with you to identify potential vulnerabilities and develop a plan that includes a range of security measures, such as Account Logs, Anti-theft , and more.
 
-In addition to these physical security measures, we'll also provide you with expert advice on how to protect yourself and your account/accounts from cyber threats, such as malware, phishing, and hacking. We know that these threats are becoming increasingly common and sophisticated, which is why we take a proactive approach to help you stay ahead of the curve.
+In addition to these security measures, we'll also provide you with expert advice on how to protect yourself and your account/accounts from cyber threats, such as malware, phishing, and hacking. We know that these threats are becoming increasingly common and sophisticated, which is why we take a proactive approach to help you stay ahead of the curve.
 
 At Lethal, we're committed to providing our clients with the highest level of security and peace of mind. We understand that security is not a one-size-fits-all solution, which is why we take the time to understand your unique needs and tailor our services to meet those needs. Whether you're a normal discord user, a discordian, or a com kid, we have the expertise and experience to help you stay safe and secure.
 
