@@ -13,7 +13,7 @@
   <p align="center">
     A unique power discord self-bot
     <br />
-    <a href="https://discord.gg/lethals"><strong>Explore the Dscord »</strong></a>
+    <a href="https://discord.gg/rySbUJS64t"><strong>Explore the Dscord »</strong></a>
     <br />
     <br />
   </p>
